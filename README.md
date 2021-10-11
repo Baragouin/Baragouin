@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Baragouin
+- 👀 I’m interested in development and technologies
+- 🌱 I’m currently learning C and UNIX
